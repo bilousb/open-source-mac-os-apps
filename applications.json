@@ -9766,6 +9766,22 @@
             "languages": [
                 "swift"
             ]
+        },
+	{
+            "short_description": "Prevent Mac from sleep with Mac Mouse Mover.",
+            "categories": [
+                "utilities"
+            ],
+            "repo_url": "https://apps.apple.com/app/id6740313656",
+            "title": "Mouse Jiggler for Mac",
+            "icon_url": "https://mousejigglermac.com/img/icon.png",
+            "screenshots": [
+                "https://mousejigglermac.com/img/img.png"
+            ],
+            "official_site": "https://mousejigglermac.com/",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
